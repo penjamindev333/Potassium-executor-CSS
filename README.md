@@ -1,2 +1,1 @@
-# Potassium-executor-CSS
-Just some CSS to put images/gifs by link into your potassium executors background
+To get a link that works for this, right click an image/gif and press "Open image in new tab" then copy the link it opens.
