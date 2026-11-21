@@ -7,7 +7,7 @@
 
 /* SCRIPT EDITOR BACKGROUND */
 .monaco-editor {
-    background-image: url("https://media.discordapp.net/attachments/952244693633232977/1573625911373205685/image.png?ex=6b02b0d5&is=6b015f55&hm=bf9a11b6c14731b137331a453ad5056b2a22443035cc6012da62dfea5c7d98a4&format=webp&quality=lossless") !important; /* put ur own image or gif right here */
+    background-image: url("LINK HERE") !important; /* put ur own image or gif right here */
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -23,7 +23,7 @@
 .sidebar {
     background-image:
         linear-gradient(rgba(11, 12, 16, 0.6), rgba(11, 12, 16, 0.6)),
-        url("https://server.wallpaperalchemy.com/storage/wallpapers/1344/guts-berserk-black-swordsman-4k-wallpaper.jpg") !important;
+        url("LINK HERE") !important;
 
     background-size: cover !important;
     background-position: center !important;
@@ -34,7 +34,7 @@
 .console {
     background-image:
         linear-gradient(rgba(11, 12, 16, 0.6), rgba(11, 12, 16, 0.6)),
-        url("https://media.discordapp.net/attachments/952244693633232977/1573626039756918824/image.png?ex=6b02b0f4&is=6b015f74&hm=6cc7cd9e325644a0bb1c5bd75f41cdc08c89c62e559f67ca52a70e8deadc2bdb&format=webp&quality=lossless") !important;
+        url("LINK HERE") !important;
 
     background-size: cover !important;
     background-position: center !important;
